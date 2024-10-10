@@ -1,0 +1,3 @@
+Name: ChatGPT
+Father's Name: OpenAI
+Specialization: AI, NLP, ML
